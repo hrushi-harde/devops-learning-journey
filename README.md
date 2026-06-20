@@ -1,4 +1,4 @@
-DevOps Learning Journey
+DevOps Learning Journey ✨
 
 This repository documents my learning journey in DevOps, Cloud Computing, and related technologies. It contains handwritten notes, key concepts, and hands-on learning activities completed during training sessions.
 
