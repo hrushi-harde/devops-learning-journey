@@ -55,3 +55,26 @@ Handwritten notes for all topics covered during Day 01 are available in the `Day
 * Created DevOps Lifecycle Flow Diagram using PlantUML.
 * Prepared a detailed comparison document for AWS, Azure, and GCP cloud platforms.
 
+## Day 02 - Linux Fundamentals and System Administration
+
+### Topics Covered
+
+* Linux File System Navigation
+* File and Directory Management Commands
+* File Viewing and Search Commands
+* User Management
+* Group Management
+* Linux Permissions and Ownership
+* Access Control and Shared Directory Management
+* Process Management
+* Networking Commands
+* Disk and Memory Management
+* Archive and Compression Utilities
+* Service Management using systemctl
+* Log Management
+* Introduction to Bash Scripting
+
+  
+### Notes
+
+  Commands for all topics covered during Day 02 are available in the Day-02 directory.
