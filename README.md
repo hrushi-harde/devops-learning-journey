@@ -78,3 +78,41 @@ Handwritten notes for all topics covered during Day 01 are available in the `Day
 ### Notes
 
   Commands for all topics covered during Day 02 are available in the Day-02 directory.
+
+  ## Day 03 - Git and GitHub Fundamentals
+
+### Topics Covered
+
+* Introduction to Git and Version Control
+* Git Installation and Configuration
+* Creating Local and Remote Repositories
+* Basic Git Commands
+* Working with Branches
+* Pushing and Pulling Changes
+* Merging Branches
+* Introduction to Git Cherry-Pick
+* GitHub Repository Management
+
+### Key Learnings
+
+* Learned the purpose of Git and the importance of version control.
+* Created a local Git repository and connected it to GitHub.
+* Practiced essential Git commands such as `git init`, `git add`, `git commit`, `git status`, `git push`, and `git pull`.
+* Created and managed multiple branches for different features.
+* Understood the process of merging branches into the main branch.
+* Learned how the `git cherry-pick` command copies a specific commit from one branch to another.
+* Gained hands-on experience with GitHub repositories and branch workflows.
+
+### Activities Completed
+
+* Created a sample HTML and CSS website.
+* Initialized a Git repository and connected it to GitHub.
+* Created feature branches (`feat/about`, `feat/contact`, `feat/login`, and `style`).
+* Committed changes on different branches and pushed them to GitHub.
+* Explored the `git cherry-pick` command and its use cases.
+* Prepared a README file documenting the Git training assignment.
+
+### Notes
+
+All Git practice files and hands-on exercises completed during Day 03 are available in the `Day-03` directory.
+
